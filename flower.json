@@ -1,0 +1,11 @@
+﻿{
+  "sortCustom": "2.0",
+  "sortRule": "0",
+  "kindRule": "0",
+  "chain": "https://raw.githubusercontent.com/msay2/Simple-AppUpdaterJSON-/master/app.apk",
+  "open": [
+    "- Améliorations apportées",
+    "- Nouveau support !",
+    "- Corrections de quelques bogues"
+  ]
+}
